@@ -1,0 +1,65 @@
+[
+    {
+        "img": "https://i.ibb.co/HVpSTBd/Rectangle-2-2.png",
+        "course name": "Introduction to C Programming",
+        "credit": 3,
+        "price": 49.99,
+        "details": "This course is designed to provide a solid foundation in the C programming language. Whether you're a complete beginner or looking to enhance your programming skills, you'll learn the fundamentals of C, including variables, data types, control structures, functions, and memory management."
+    },
+    {
+        "img": "https://i.ibb.co/vjpmVY6/Rectangle-2-3.png",
+        "course name": "Introduction to Algorithms",
+        "credit": 4,
+        "price": 79.99,
+        "details": "This comprehensive course provides an in-depth exploration of fundamental algorithms and data structures. You'll learn how to design, analyze, and implement algorithms to solve a wide range of computational problems efficiently. "
+    },
+    {
+        "img": "https://i.ibb.co/Vm13GXc/Rectangle-2-4.png",
+        "course name": "Introduction to C++ for DSA",
+        "credit": 5,
+        "price": 99.99,
+        "details": "This course is designed to help you master the C++ programming language, with a focus on its application in data structures and algorithms. "
+    },
+    {
+        "img": "https://i.ibb.co/0rsM2Ff/Rectangle-3.png",
+        "course name": "Basic Data Structures",
+        "credit": 3,
+        "price": 59.99,
+        "details": "This course is a foundational introduction to the fundamental data structures used in computer science and software development."
+    },
+    {
+        "img": "https://i.ibb.co/mJFfqfr/Rectangle-2.png",
+        "course name": "Introduction to OOP Python",
+        "credit": 4,
+        "price": 69.99,
+        "details": "This course is designed to provide a comprehensive introduction to Object-Oriented Programming (OOP) concepts using the Python programming language."
+    },
+    {
+        "img": "https://i.ibb.co/5Mht5N2/Rectangle-2-5.png",
+        "course name": "Software Engineering",
+        "credit": 3,
+        "price": 69.99,
+        "details": "This comprehensive course offers a deep dive into the field of software engineering, covering the entire software development lifecycle."
+    },
+    {
+        "img": "https://i.ibb.co/VmvY4YN/Rectangle-3-1.png",
+        "course name": "AWS, Cloud Computing",
+        "credit": 4,
+        "price": 79.99,
+        "details": "This course is a comprehensive introduction to cloud computing with a focus on Amazon Web Services (AWS). "
+    },
+    {
+        "img": "https://i.ibb.co/fM73sR6/Rectangle-2-1.png",
+        "course name": "Database (MySQL)",
+        "credit": 5,
+        "price": 89.99,
+        "details": "This course is designed to provide a comprehensive understanding of database management using MySQL, one of the most popular relational database management systems."
+    },
+    {
+        "img": "https://i.ibb.co/3BdNQX6/Rectangle-2-6.png",
+        "course name": "Problem-Solving Part",
+        "credit": 5,
+        "price": 109.99,
+        "details": "In a JavaScript problem-solving course, you can expect to learn how to apply JavaScript programming to solve various problems and challenges. "
+    }
+]
