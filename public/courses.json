@@ -4,14 +4,14 @@
         "course_name": "Introduction to C Programming",
         "credit": 1,
         "price": 15000,
-        "details": "This course is designed to provide a solid foundation in the C programming language. Whether you're a complete beginner or looking to enhance your programming skills, you'll learn the fundamentals of C, including variables, data types, control structures, functions, and memory management."
+        "details": "This course is designed to provide a solid foundation in the C programming language."
     },
     {
         "img": "https://i.ibb.co/vjpmVY6/Rectangle-2-3.png",
         "course_name": "Introduction to Algorithms",
         "credit": 2,
         "price": 25000,
-        "details": "This comprehensive course provides an in-depth exploration of fundamental algorithms and data structures. You'll learn how to design, analyze, and implement algorithms to solve a wide range of computational problems efficiently. "
+        "details": "This comprehensive course provides an in-depth exploration of fundamental algorithms and data structures. "
     },
     {
         "img": "https://i.ibb.co/Vm13GXc/Rectangle-2-4.png",
@@ -53,13 +53,13 @@
         "course_name": "Database (MySQL)",
         "credit": 5,
         "price": 19000,
-        "details": "This course is designed to provide a comprehensive understanding of database management using MySQL, one of the most popular relational database management systems."
+        "details": "This course is designed to provide a comprehensive understanding of database management using MySQL."
     },
     {
         "img": "https://i.ibb.co/3BdNQX6/Rectangle-2-6.png",
         "course_name": "Problem-Solving Part",
         "credit": 2,
         "price": 23000,
-        "details": "In a JavaScript problem-solving course, you can expect to learn how to apply JavaScript programming to solve various problems and challenges. "
+        "details": "In this course you can expect to learn how to apply JavaScript programming to solve various problems and challenges. "
     }
 ]

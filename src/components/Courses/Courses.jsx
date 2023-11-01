@@ -11,7 +11,7 @@ const Courses = () => {
         .then(data => setCourses(data))
     }, [])
     return (
-        <div className="md:w-2/3">
+        <div className=" course">
             
             {
                 courses.map(course => <Course  course={course}></Course>)
