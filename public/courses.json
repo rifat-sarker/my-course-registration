@@ -1,5 +1,6 @@
 [
     {
+        "id" : 1,
         "img": "https://i.ibb.co/HVpSTBd/Rectangle-2-2.png",
         "course_name": "Introduction to C Programming",
         "credit": 1,
@@ -7,6 +8,7 @@
         "details": "This course is designed to provide a solid foundation in the C programming language."
     },
     {
+        "id" : 2,
         "img": "https://i.ibb.co/vjpmVY6/Rectangle-2-3.png",
         "course_name": "Introduction to Algorithms",
         "credit": 2,
@@ -14,6 +16,7 @@
         "details": "This comprehensive course provides an in-depth exploration of fundamental algorithms and data structures. "
     },
     {
+        "id" : 3,
         "img": "https://i.ibb.co/Vm13GXc/Rectangle-2-4.png",
         "course_name": "Introduction to C++ for DSA",
         "credit": 10,
@@ -21,6 +24,7 @@
         "details": "This course is designed to help you master the C++ programming language, with a focus on its application in data structures and algorithms. "
     },
     {
+        "id" : 4,
         "img": "https://i.ibb.co/0rsM2Ff/Rectangle-3.png",
         "course_name": "Basic Data Structures",
         "credit": 5,
@@ -28,6 +32,7 @@
         "details": "This course is a foundational introduction to the fundamental data structures used in computer science and software development."
     },
     {
+        "id" : 5,
         "img": "https://i.ibb.co/mJFfqfr/Rectangle-2.png",
         "course_name": "Introduction to OOP Python",
         "credit": 5,
@@ -35,6 +40,7 @@
         "details": "This course is designed to provide a comprehensive introduction to Object-Oriented Programming (OOP) concepts using the Python programming language."
     },
     {
+        "id" : 6,
         "img": "https://i.ibb.co/5Mht5N2/Rectangle-2-5.png",
         "course_name": "Software Engineering",
         "credit": 2,
@@ -42,6 +48,7 @@
         "details": "This comprehensive course offers a deep dive into the field of software engineering, covering the entire software development lifecycle."
     },
     {
+        "id" : 7,
         "img": "https://i.ibb.co/VmvY4YN/Rectangle-3-1.png",
         "course_name": "AWS, Cloud Computing",
         "credit": 5,
@@ -49,6 +56,7 @@
         "details": "This course is a comprehensive introduction to cloud computing with a focus on Amazon Web Services (AWS). "
     },
     {
+        "id" : 8,
         "img": "https://i.ibb.co/fM73sR6/Rectangle-2-1.png",
         "course_name": "Database (MySQL)",
         "credit": 5,
@@ -56,6 +64,7 @@
         "details": "This course is designed to provide a comprehensive understanding of database management using MySQL."
     },
     {
+        "id" : 9,
         "img": "https://i.ibb.co/3BdNQX6/Rectangle-2-6.png",
         "course_name": "Problem-Solving Part",
         "credit": 2,

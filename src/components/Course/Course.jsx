@@ -1,7 +1,7 @@
 import './Course.css'
 
-const Course = ({course}) => {
-    const {img,course_name, details, credit, price} = course;
+const Course = ({course, handleSelectedCourses}) => {
+    const {id, img,course_name, details, credit, price} = course;
     return (
         <div className="w-2/3">
             
@@ -14,7 +14,8 @@ const Course = ({course}) => {
                         <p>Price : {price} </p>
                         <p className="ml-3">Credit : {credit}hr </p>
                     </div>
-                    <button className="btn bg-blue-600 text-white px-4 py-2 rounded w-full">Select</button>
+                    <button
+                    onClick={()=>handleSelectedCourses(course)} className="btn bg-blue-600 text-white px-4 py-2 rounded w-full">Select</button>
                </div>
             </div>
         </div>
