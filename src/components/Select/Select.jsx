@@ -1,11 +1,10 @@
-
-
 const Select = ({select}) => {
-    const {course_name} = select;
+    const {course_name, credit} = select;
     return (
        <div>
-         <li>{course_name}</li>
+            <li>{course_name}</li>
        </div>
+       
     );
 };
 

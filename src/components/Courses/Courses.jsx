@@ -14,8 +14,8 @@ const Courses = ({handleSelectedCourses}) => {
         <div className=" course">
             
             {
-                courses.map(course => <Course 
-                    key={course.id}
+                courses.map((course, idx) => <Course 
+                    key={idx}
                     course={course}
                     handleSelectedCourses={handleSelectedCourses}
                 ></Course>)

@@ -5,11 +5,11 @@ const Course = ({course, handleSelectedCourses}) => {
     return (
         <div className="w-2/3">
             
-            <div className='border-white-700 border mx-4 rounded-lg w-80 h-96 '>
+            <div className='border-white-700 border mx-4 rounded-lg w-80 h-full '>
                <div className='p-4'>
                     <img className='mb-3' src={img} alt="" />
                     <h3 className='font-semibold'>{course_name}</h3>
-                    <p><small>{details}</small></p>
+                    <p className='text-justify'><small>{details}</small></p>
                     <div className="flex py-2 justify-between">
                         <p>Price : {price} </p>
                         <p className="ml-3">Credit : {credit}hr </p>
