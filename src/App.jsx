@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       
-      <h1 className='text-center'>Course Registration</h1>
+      <h1 className='text-3xl text-center my-4 '>Course Registration</h1>
       
      
     </>
