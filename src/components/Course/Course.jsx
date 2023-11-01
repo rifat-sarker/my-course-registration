@@ -8,7 +8,7 @@ const Course = ({course, handleSelectedCourses}) => {
             <div className='border-white-700 border mx-4 rounded-lg w-80 h-full '>
                <div className='p-4'>
                     <img className='mb-3' src={img} alt="" />
-                    <h3 className='font-semibold'>{course_name}</h3>
+                    <h3 className='font-bold'>{course_name}</h3>
                     <p className='text-justify'><small>{details}</small></p>
                     <div className="flex py-2 justify-between">
                         <p>Price : {price} </p>

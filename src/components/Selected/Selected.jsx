@@ -7,7 +7,7 @@ const Selected = ({selected, remaining ,totalCredit}) => {
             <h3 className="mb-5 text-blue-600 font-semibold">Credit Hour Remaining : {remaining}  hr</h3>
                 <hr />
             <div className="mb-10">
-            <h3 className="my-5">Course Name</h3>
+            <h3 className="my-5 font-semibold">Course Name</h3>
             {
                 selected.map((select,idx) => <Select key={idx} select={select}
                 totalCredit ={totalCredit}
